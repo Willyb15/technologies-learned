@@ -20,7 +20,6 @@ Ken Thompson, Dennis Ritchie, and others
 ```
 ### Mac OS
 ```
-Image result for what is mac os
 Mac OS is a series of graphical user interface–based operating systems 
 developed by Apple Inc. for their Macintosh line of computer systems. 
 The original operating system was first introduced in 1984 as being integral to the original Macintosh, 
@@ -39,7 +38,7 @@ of a document written in a markup language.
 ```
 ```
 Sass is a scripting language that is interpreted into Cascading Style Sheets (CSS). 
-SassScript is the scripting language itself. Sass consists of two syntaxes.
+SassScript is the scripting language itself.
 ```
 ###JavaScript/jQuery/Angular
 ```
@@ -53,14 +52,16 @@ and Ajax much simpler with an easy-to-use API that works across a multitude of b
 ```
 ```
 AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your 
-template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. 
-Angular's data binding and dependency injection eliminate much of the code you would otherwise have to write.
+template language and lets you extend HTML's syntax to express your application's components 
+clearly and succinctly. Angular's data binding and dependency injection eliminate 
+much of the code you would otherwise have to write.
 ```
 #Back-End
 ###Apache/Linux
 ###Node.js/Express.js/MongoDB
 ```
-In software development, Node.js is an open-source, cross-platform runtime environment for developing server-side Web applications. Although Node.js is not a JavaScript framework, 
+In software development, Node.js is an open-source, cross-platform runtime environment 
+for developing server-side Web applications. Although Node.js is not a JavaScript framework, 
 many of its basic modules are written in JavaScript, and developers can write new modules in JavaScript.
 ```
 ```
@@ -69,5 +70,11 @@ and hybrid web applications. It is the de facto standard server framework for no
 ```
 ###Apache
 ```
-the Apache HTTP Server, colloquially called Apache (/əˈpætʃiː/ ə-pa-chee), is the world's most used web server software. Originally based on the NCSA HTTPd server, development of Apache began in early 1995 after work on the NCSA code stalled. Apache played a key role in the initial growth of the World Wide Web,[4] quickly overtaking NCSA HTTPd as the dominant HTTP server, and has remained most popular since April 1996. In 2009, it became the first web server software to serve more than 100 million websites.
+the Apache HTTP Server, colloquially called Apache (/əˈpætʃiː/ ə-pa-chee), 
+is the world's most used web server software. Originally based on the NCSA HTTPd server, 
+development of Apache began in early 1995 after work on the NCSA code stalled. 
+Apache played a key role in the initial growth of the World Wide Web,[4] 
+quickly overtaking NCSA HTTPd as the dominant HTTP server, 
+and has remained most popular since April 1996. In 2009, 
+it became the first web server software to serve more than 100 million websites.
 ```
